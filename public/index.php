@@ -64,36 +64,58 @@
                 <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
                 <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
                 <li data-target="#carouselExampleCaptions" data-slide-to="3"></li>
+                
                 </ol>
                 <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img src="../recursos/galeria/1.jpg" class="d-block w-100" alt="...">
-                    <div class="carousel-caption d-none d-md-block">
-                    <h3>Bienvenido al Ministerio Jehová Nissi</h3>
-                    <p>Servimos a la comunidad con amor y solidaridad</p>
+                    <div class="carousel-item active">
+                        <img src="../recursos/galeria/1.jpg" class="d-block w-100" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                        <h3>Bienvenido al Ministerio Jehová Nissi</h3>
+                        <p>Servimos a la comunidad con amor y solidaridad</p>
+                        </div>
                     </div>
-                </div>
-                <div class="carousel-item">
-                    <img src="../recursos/galeria/2.jpg" class="d-block w-100" alt="...">
-                    <div class="carousel-caption d-none d-md-block">
-                    <h3>Bienvenido al Ministerio Jehová Nissi</h3>
-                    <p>Servimos a la comunidad con amor y solidaridad</p>
+                    <div class="carousel-item">
+                        <img src="../recursos/galeria/4.jpg" class="d-block w-100" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                        <h3>Bienvenido al Ministerio Jehová Nissi</h3>
+                        <p>Servimos a la comunidad con amor y solidaridad</p>
+                        </div>
                     </div>
-                </div>
-                <div class="carousel-item">
-                    <img src="../recursos/galeria/3.jpg" class="d-block w-100" alt="...">
-                    <div class="carousel-caption d-none d-md-block">
-                    <h3>Bienvenido al Ministerio Jehová Nissi</h3>
-                    <p>Servimos a la comunidad con amor y solidaridad</p>
+                    <!-- <div class="carousel-item">
+                        <img src="../recursos/galeria/3.jpg" class="d-block w-100" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                        <h3>Bienvenido al Ministerio Jehová Nissi</h3>
+                        <p>Servimos a la comunidad con amor y solidaridad</p>
+                        </div>
+                    </div> -->
+                    <!-- <div class="carousel-item">
+                        <img src="../recursos/galeria/2.jpg" class="d-block w-100" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                        <h3>Bienvenido al Ministerio Jehová Nissi</h3>
+                        <p>Servimos a la comunidad con amor y solidaridad</p>
+                        </div>
+                    </div> -->
+                    <div class="carousel-item">
+                        <img src="../recursos/galeria/g3.jpg" class="d-block w-100" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                        <h3>Bienvenido al Ministerio Jehová Nissi</h3>
+                        <p>Servimos a la comunidad con amor y solidaridad</p>
+                        </div>
                     </div>
-                </div>
-                <div class="carousel-item">
-                    <img src="../recursos/galeria/g3.jpg" class="d-block w-100" alt="...">
-                    <div class="carousel-caption d-none d-md-block">
-                    <h3>Bienvenido al Ministerio Jehová Nissi</h3>
-                    <p>Servimos a la comunidad con amor y solidaridad</p>
+                    <div class="carousel-item">
+                        <img src="../recursos/galeria/ga16.jpg" class="d-block w-100" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                        <h3>Bienvenido al Ministerio Jehová Nissi</h3>
+                        <p>Servimos a la comunidad con amor y solidaridad</p>
+                        </div>
                     </div>
-                </div>
+                    <!-- <div class="carousel-item">
+                        <img src="../recursos/galeria/ga13.jpg" class="d-block w-100" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                        <h3>Bienvenido al Ministerio Jehová Nissi</h3>
+                        <p>Servimos a la comunidad con amor y solidaridad</p>
+                        </div>
+                    </div> -->
                 </div>
                 <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -263,6 +285,54 @@
             <div class="col-md-4 mb-4">
                 <div class="photo-item">
                     <img src="../recursos/galeria/g3.jpg" alt="Foto 3" class="img-fluid">
+                    <div class="overlay">
+                        <!-- <div class="overlay-text">Actividad 2</div> -->
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="photo-item">
+                    <img src="../recursos/galeria/ga11.jpg" alt="Foto 3" class="img-fluid">
+                    <div class="overlay">
+                        <!-- <div class="overlay-text">Actividad 2</div> -->
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="photo-item">
+                    <img src="../recursos/galeria/ga15.jpg" alt="Foto 3" class="img-fluid">
+                    <div class="overlay">
+                        <!-- <div class="overlay-text">Actividad 2</div> -->
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="photo-item">
+                    <img src="../recursos/galeria/ga17.jpg" alt="Foto 3" class="img-fluid">
+                    <div class="overlay">
+                        <!-- <div class="overlay-text">Actividad 2</div> -->
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="photo-item">
+                    <img src="../recursos/galeria/ga18.jpg" alt="Foto 3" class="img-fluid">
+                    <div class="overlay">
+                        <!-- <div class="overlay-text">Actividad 2</div> -->
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="photo-item">
+                    <img src="../recursos/galeria/ga8.jpg" alt="Foto 3" class="img-fluid">
+                    <div class="overlay">
+                        <!-- <div class="overlay-text">Actividad 2</div> -->
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="photo-item">
+                    <img src="../recursos/galeria/ga3.jpg" alt="Foto 3" class="img-fluid">
                     <div class="overlay">
                         <!-- <div class="overlay-text">Actividad 2</div> -->
                     </div>
