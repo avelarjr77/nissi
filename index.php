@@ -67,14 +67,14 @@
                 </ol>
                 <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="recursos/galeria/1.jpg" class="d-block w-100" alt="...">
+                    <img src="recursos/galeria/4.JPG" class="d-block w-100" alt="...">
                     <div class="carousel-caption d-none d-md-block">
                     <h3>Bienvenido al Ministerio Jehová Nissi</h3>
                     <p>Servimos a la comunidad con amor y solidaridad</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="recursos/galeria/2.jpg" class="d-block w-100" alt="...">
+                    <img src="recursos/galeria/1.jpg" class="d-block w-100" alt="...">
                     <div class="carousel-caption d-none d-md-block">
                     <h3>Bienvenido al Ministerio Jehová Nissi</h3>
                     <p>Servimos a la comunidad con amor y solidaridad</p>
@@ -88,7 +88,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="recursos/galeria/g3.jpg" class="d-block w-100" alt="...">
+                    <img src="recursos/galeria/ga16.jpg" class="d-block w-100" alt="...">
                     <div class="carousel-caption d-none d-md-block">
                     <h3>Bienvenido al Ministerio Jehová Nissi</h3>
                     <p>Servimos a la comunidad con amor y solidaridad</p>
@@ -268,7 +268,78 @@
                     </div>
                 </div>
             </div>
-            <!-- Repite este patrón para más fotos -->
+            <div class="col-md-4 mb-4">
+                <div class="photo-item">
+                    <img src="recursos/galeria/ga2.jpg" alt="Foto 3" class="img-fluid">
+                    <div class="overlay">
+                        <!-- <div class="overlay-text">Actividad 2</div> -->
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="photo-item">
+                    <img src="recursos/galeria/ga4.jpg" alt="Foto 3" class="img-fluid">
+                    <div class="overlay">
+                        <!-- <div class="overlay-text">Actividad 2</div> -->
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="photo-item">
+                    <img src="recursos/galeria/ga5.jpg" alt="Foto 3" class="img-fluid">
+                    <div class="overlay">
+                        <!-- <div class="overlay-text">Actividad 2</div> -->
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="photo-item">
+                    <img src="recursos/galeria/ga3.jpg" alt="Foto 3" class="img-fluid">
+                    <div class="overlay">
+                        <!-- <div class="overlay-text">Actividad 2</div> -->
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="photo-item">
+                    <img src="recursos/galeria/ga191.jpg" alt="Foto 3" class="img-fluid">
+                    <div class="overlay">
+                        <!-- <div class="overlay-text">Actividad 2</div> -->
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="photo-item">
+                    <img src="recursos/galeria/ga9.jpg" alt="Foto 3" class="img-fluid">
+                    <div class="overlay">
+                        <!-- <div class="overlay-text">Actividad 2</div> -->
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="photo-item">
+                    <img src="recursos/galeria/ga11.jpg" alt="Foto 3" class="img-fluid">
+                    <div class="overlay">
+                        <!-- <div class="overlay-text">Actividad 2</div> -->
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="photo-item">
+                    <img src="recursos/galeria/ga10.jpg" alt="Foto 3" class="img-fluid">
+                    <div class="overlay">
+                        <!-- <div class="overlay-text">Actividad 2</div> -->
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="photo-item">
+                    <img src="recursos/galeria/g16.jpg" alt="Foto 3" class="img-fluid">
+                    <div class="overlay">
+                        <!-- <div class="overlay-text">Actividad 2</div> -->
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>
